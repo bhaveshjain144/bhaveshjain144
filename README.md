@@ -1,7 +1,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=bhaveshjain144&label=Profile%20views&color=0e75b6&style=flat" alt="bhaveshjain144" /> </p>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img align="center" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&vCenter=true&lines=Hey+ya+!!!+%F0%9F%91%8B;This+is+Bhavesh+Jain......;Welcome+to+my+profile+!;Make+sure+you+star+some+repo+%F0%9F%98%83">
+    <img align="center" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&vCenter=true&lines=Heya+Peeps+!!!+%F0%9F%91%8B;This+is+Bhavesh+Jain......;Welcome+to+my+profile+!;Make+sure+you+star+some+repo+%F0%9F%98%83">
   </a>
 </h1>
 <h5 align="center">
@@ -20,7 +20,7 @@
     <tbody>
         <tr valign="top">
             <td width="80px" align="center">
-            <span><strong>Angular</strong></span><br>
+            <span><strong>React</strong></span><br>
             <img height="32px" src="https://angular.io/assets/images/logos/angular/angular.svg">
             </td>
             <td width="80px" align="center">
@@ -38,8 +38,8 @@
         </tr>
         <tr valign="top">
             <td width="80px" align="center">
-            <span><strong>React</strong></span><br>
-            <img height="32px" src="https://www.chartjs.org/media/logo-title.svg">
+            <span><strong>Node</strong></span><br>
+            <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg">
             </td>
             <td width="80px" align="center">
             <span><strong>git</strong></span><br>
@@ -49,8 +49,8 @@
             <span><strong>GitHub</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
             <td width="80px" align="center">
-            <span><strong>CodeIgniter</strong></span><br>
-            <img height="32px" src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg">
+            <span><strong>MongoDB</strong></span><br>
+            <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg">
             </td>
         </tr>
           <tr valign="top">
@@ -66,8 +66,8 @@
             <span><strong>Firebase</strong></span><br>
             <img height="32px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
             <td width="80px" align="center">
-            <span><strong>Heroku</strong></span><br>
-            <img height="32px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg">
+              <span><strong>C++</strong></span><br>
+            <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg">
             </td>
         </tr>
     </tbody>
