@@ -1,7 +1,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=bhaveshjain144&label=Profile%20views&color=0e75b6&style=flat" alt="bhaveshjain144" /> </p>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img align="center" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&vCenter=true&lines=Hey+ya+!!!+%F0%9F%91%8B;This+is+Diwakar+Adhikari......;Welcome+to+my+profile+!;Make+sure+you+star+some+repo+%F0%9F%98%83">
+    <img align="center" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&vCenter=true&lines=Hey+ya+!!!+%F0%9F%91%8B;This+is+Bhavesh+Jain......;Welcome+to+my+profile+!;Make+sure+you+star+some+repo+%F0%9F%98%83">
   </a>
 </h1>
 <h5 align="center">
@@ -77,7 +77,7 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Thunderk3g&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=bhaveshjain144&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=bhaveshjain144&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
