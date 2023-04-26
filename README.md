@@ -5,9 +5,9 @@
   </a>
 </h1>
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/bhavesh-jain-a750401ba/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/bhaveshjain1520" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://instagram.com/bhaveshjain_._" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://www.linkedin.com/in/bhavesh-jain-a750401ba/" title="LinkedIn Profile"><img width="22" src="Images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.hackerrank.com/bhaveshjain1520" title="HackerRank Profile"><img width="22" src="Images/hackerrank.png"> HackerRank</a></code>
+  <code><a href="https://instagram.com/bhaveshjain_._" title="Instagram Profile"><img width="22" src="Images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
 <p align="center">
