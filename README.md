@@ -24,8 +24,8 @@
             <img height="32px" src="https://angular.io/assets/images/logos/angular/angular.svg">
             </td>
             <td width="80px" align="center">
-            <span><strong>Bootstrap</strong></span><br>
-            <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
+            <span><strong>Python</strong></span><br>
+            <img height="32" src="Images/python.jpeg">
             </td>
             <td width="80px" align="center">
             <span><strong>HTML</strong></span><br>
