@@ -5,7 +5,7 @@
   </a>
 </h1>
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/bhavesh-jain-a750401ba/" title="LinkedIn Profile"><img width="22" src="Images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.linkedin.com/in/bhaveshjain14/" title="LinkedIn Profile"><img width="22" src="https://icons8.com/icon/13930/linkedin"> LinkedIn</a></code>
   <code><a href="https://www.hackerrank.com/bhaveshjain1520" title="HackerRank Profile"><img width="22" src="Images/hackerrank.png"> HackerRank</a></code>
   <code><a href="https://instagram.com/bhaveshjain_._" title="Instagram Profile"><img width="22" src="Images/instagram.svg"> Instagram</a></code>
 </h5>
