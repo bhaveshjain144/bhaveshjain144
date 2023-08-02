@@ -6,14 +6,17 @@
 </h1>
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/bhaveshjain14/" title="LinkedIn Profile"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"> LinkedIn</a></code>
+  <span><p>    </p></span>
   <code><a href="https://leetcode.com/bhaveshjain14/" title="LeetCode Profile"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"> Leetcode</a></code>
+  <span><p>    </p></span>
   <code><a href="https://www.hackerrank.com/bhaveshjain1520" title="HackerRank Profile"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png"> HackerRank</a></code>
+  <span><p>    </p></span>
 <!--   <code><a href="https://www.hackerrank.com/bhaveshjain1520" title="HackerRank Profile"><img width="22" src="Images/hackerrank.png"> HackerRank</a></code> -->
   <code><a href="https://instagram.com/bhaveshjain_._" title="Instagram Profile"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"> Instagram</a></code>
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Bhavesh Jain (bhaveshjain144)<code><a href="https://instagram.com/bhaveshjain_._" title="GitHub Profile"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg"></a></code> , Computer Science Engineer & Software Developer from India
+  Hi, I'm Bhavesh Jain (bhaveshjain144)<code><a href="https://github.com/bhaveshjain144" title="GitHub Profile"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg"></a></code> , Computer Science Engineer & Software Developer from India
  </p>
 <br>
 <br>
