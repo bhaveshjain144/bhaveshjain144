@@ -6,8 +6,10 @@
 </h1>
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/bhaveshjain14/" title="LinkedIn Profile"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/bhaveshjain1520" title="HackerRank Profile"><img width="22" src="Images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://instagram.com/bhaveshjain_._" title="Instagram Profile"><img width="22" src="Images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://leetcode.com/bhaveshjain14/" title="LeetCode Profile"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"> Leetcode</a></code>
+  <code><a href="https://www.hackerrank.com/bhaveshjain1520" title="HackerRank Profile"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png"> HackerRank</a></code>
+<!--   <code><a href="https://www.hackerrank.com/bhaveshjain1520" title="HackerRank Profile"><img width="22" src="Images/hackerrank.png"> HackerRank</a></code> -->
+  <code><a href="https://instagram.com/bhaveshjain_._" title="Instagram Profile"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"> Instagram</a></code>
 </h5>
 <br>
 <p align="center">
@@ -21,11 +23,11 @@
         <tr valign="top">
             <td width="80px" align="center">
             <span><strong>React</strong></span><br>
-            <img height="32px" src="https://angular.io/assets/images/logos/angular/angular.svg">
+            <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg">
             </td>
             <td width="80px" align="center">
             <span><strong>Python</strong></span><br>
-            <img height="32" src="Images/python.jpeg">
+            <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
             </td>
             <td width="80px" align="center">
             <span><strong>HTML</strong></span><br>
@@ -56,11 +58,11 @@
           <tr valign="top">
             <td width="80px" align="center">
             <span><strong>Docker</strong></span><br>
-            <img height="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
+            <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Docker-svgrepo-com.svg">
             </td>
             <td width="80px" align="center">
             <span><strong>Express</strong></span><br>
-            <img height="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg">
+            <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png">
             </td>
             <td width="80px" align="center">
             <span><strong>Firebase</strong></span><br>
