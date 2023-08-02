@@ -6,11 +6,11 @@
 </h1>
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/bhaveshjain14/" title="LinkedIn Profile"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"> LinkedIn</a></code>
-  <p>    </p>
+  <span>    </span>
   <code><a href="https://leetcode.com/bhaveshjain14/" title="LeetCode Profile"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"> Leetcode</a></code>
-  <p>    </p>
+  <span>    </span>
   <code><a href="https://www.hackerrank.com/bhaveshjain1520" title="HackerRank Profile"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png"> HackerRank</a></code>
-  <p>    </p>
+  <span>    </span>
 <!--   <code><a href="https://www.hackerrank.com/bhaveshjain1520" title="HackerRank Profile"><img width="22" src="Images/hackerrank.png"> HackerRank</a></code> -->
   <code><a href="https://instagram.com/bhaveshjain_._" title="Instagram Profile"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"> Instagram</a></code>
 </h5>
