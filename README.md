@@ -13,7 +13,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Bhavesh Jain (bhaveshjain144), Computer Engineer & Software Developer from India
+  Hi, I'm Bhavesh Jain (bhaveshjain144)<code><a href="https://instagram.com/bhaveshjain_._" title="GitHub Profile"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg"></a></code> , Computer Science Engineer & Software Developer from India
  </p>
 <br>
 <br>
@@ -22,37 +22,56 @@
     <tbody>
         <tr valign="top">
             <td width="80px" align="center">
-            <span><strong>React</strong></span><br>
-            <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg">
+            <span><strong>C++</strong></span><br>
+            <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg">
             </td>
             <td width="80px" align="center">
             <span><strong>Python</strong></span><br>
             <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
             </td>
             <td width="80px" align="center">
-            <span><strong>HTML</strong></span><br>
-            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+            <span><strong>SQL</strong></span><br>
+            <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png">
             </td>
             <td width="80px" align="center">
-            <span><strong>CSS</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+            <span><strong>API</strong></span><br>
+            <img height="32px" src="https://www.svgrepo.com/show/88703/api.svg">
             </td>
         </tr>
         <tr valign="top">
             <td width="80px" align="center">
-            <span><strong>Node</strong></span><br>
+            <span><strong>ReactJS</strong></span><br>
+            <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>NodeJS</strong></span><br>
             <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg">
             </td>
             <td width="80px" align="center">
-            <span><strong>git</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+            <span><strong>Express</strong></span><br>
+            <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png">
             </td>
-            <td width="80px" align="center">
-            <span><strong>GitHub</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
             <td width="80px" align="center">
             <span><strong>MongoDB</strong></span><br>
             <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg">
+            </td>
+        </tr>
+          <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>TypeScript</strong></span><br>
+            <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>JavaScript</strong></span><br>
+            <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg">
+            </td>
+            <td width="80px" align="center">
+              <span><strong>GitHub</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Git</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
             </td>
         </tr>
           <tr valign="top">
@@ -61,15 +80,16 @@
             <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Docker-svgrepo-com.svg">
             </td>
             <td width="80px" align="center">
-            <span><strong>Express</strong></span><br>
-            <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png">
-            </td>
-            <td width="80px" align="center">
             <span><strong>Firebase</strong></span><br>
             <img height="32px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
+            </td>
             <td width="80px" align="center">
-              <span><strong>C++</strong></span><br>
-            <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg">
+            <span><strong>HTML</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+            </td>
+            <td width="80px" align="center">
+              <span><strong>CSS</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
             </td>
         </tr>
     </tbody>
