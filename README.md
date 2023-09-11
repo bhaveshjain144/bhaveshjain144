@@ -1,7 +1,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=bhaveshjain144&label=Profile%20views&color=00008b&style=flat" alt="bhaveshjain144" /> </p>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img align="center" src="https://readme-typing-svg.herokuapp.com?color=990000&size=30&vCenter=true&lines=Heya+People+!!!+%F0%9F%91%8B;This+is+Bhavesh+Jain......;Welcome+to+my+profile+!;Make+sure+you+star+some+repo+%F0%9F%98%83">
+    <img align="center" src="https://readme-typing-svg.herokuapp.com?color=990000&size=30&vCenter=true&lines=Heya+People+!!!+%F0%9F%91%8B;This+is+Bhavesh+Jain......;Welcome+to+my+profile+!;Make+sure+you+star+some+repository+%F0%9F%98%83">
   </a>
 </h1>
 <h5 align="center">
