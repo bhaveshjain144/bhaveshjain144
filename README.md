@@ -5,6 +5,7 @@
   </a>
 </h1>
 <h5 align="center">
+  <code><a href="https://vercel.com/bhavesh-jains-projects-898cdc08/" title="LinkedIn Profile"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Ionicons_logo-vercel.svg"> LinkedIn</a></code>
   <code><a href="https://www.linkedin.com/in/bhaveshjain14/" title="LinkedIn Profile"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"> LinkedIn</a></code>
   <code><a href="https://leetcode.com/bhaveshjain14/" title="LeetCode Profile"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"> Leetcode</a></code>
   <code><a href="https://www.hackerrank.com/bhaveshjain1520" title="HackerRank Profile"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png"> HackerRank</a></code>
@@ -20,10 +21,10 @@
     👀 Checkout my Portfolio - **https://bhaveshjain-portfolio.vercel.app/**
   </p>
   <p fontWeight="3px">
-    👨‍💻I work on MERN Stack.
+    👨‍💻I work on **MERN Stack.**
   </p>
   <p>
-    📩How to reach me bhaveshjain1508@gmail.com
+    📩How to reach me **bhaveshjain1508@gmail.com**
   </p>
 <br>
 <h3 align="center">Languages and Tools:-</h3>
