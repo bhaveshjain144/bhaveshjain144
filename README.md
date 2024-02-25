@@ -20,8 +20,9 @@
 <br>
     My Portfolio 👀 - https://bhaveshjain-portfolio.vercel.app/
 <br>
-    My Domain 👨‍💻 - ***MERN_STACK***
+    My Domain 👨‍💻 - 𝐌𝐄𝐑𝐍 𝐒𝐓𝐀𝐂𝐊 and 𝐏𝐲𝐭𝐡𝐨𝐧
 <br>
+    📩 You can mail me here - mailto:bhaveshjain1508@gmail.com
 <h3 align="center">Languages and Tools:-</h3>
 <table width="320px" align="center">
     <tbody>
