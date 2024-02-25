@@ -3,12 +3,6 @@
   <a href="https://git.io/typing-svg">
     <img align="center" src="https://readme-typing-svg.herokuapp.com?color=990000&size=30&vCenter=true&lines=Hello+People+!!!+%F0%9F%91%8B;This+is+Bhavesh+Jain......;Welcome+to+my+profile+!;Make+sure+you+star+some+repository+%F0%9F%98%83">
   </a>
-  <p>
-    (❁´◡`❁) Checkout my Portfolio - **[https://bhaveshjain-portfolio.vercel.app/]**
-I work on **MERN Stack.** and Python
-
-📫 How to reach me **bhaveshjain1508@gmail.com**
-  </p>
 </h1>
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/bhaveshjain14/" title="LinkedIn Profile"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"> LinkedIn</a></code>
@@ -22,6 +16,12 @@ I work on **MERN Stack.** and Python
   Hi, I'm Bhavesh Jain (bhaveshjain144)<code><a href="https://github.com/bhaveshjain144" title="GitHub Profile"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg"></a></code> , Computer Science Engineer & Software Developer Engineer from India
  </p>
 <br>
+  <p>
+    (❁´◡`❁) Checkout my Portfolio - **[https://bhaveshjain-portfolio.vercel.app/]**
+I work on **MERN Stack.** and Python
+
+📫 How to reach me **bhaveshjain1508@gmail.com**
+  </p>
 <br>
 <h3 align="center">Languages and Tools:-</h3>
 <table width="320px" align="center">
