@@ -18,7 +18,7 @@
  </p>
 <br>
   <p>
-    👀 Checkout my Portfolio - **https://bhaveshjain-portfolio.vercel.app/**
+    👀 Checkout my Portfolio - https://bhaveshjain-portfolio.vercel.app/
   </p>
   <p fontWeight="3px">
     👨‍💻I work on **MERN Stack.**
