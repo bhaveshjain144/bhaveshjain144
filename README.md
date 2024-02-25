@@ -19,11 +19,11 @@
   <p>
     👀 Checkout my Portfolio - **https://bhaveshjain-portfolio.vercel.app/**
   </p>
-  <p>
-    ### 👨‍💻I work on MERN Stack.
+  <p fontWeight="3px">
+    👨‍💻I work on MERN Stack.
   </p>
   <p>
-    ### 📩How to reach me bhaveshjain1508@gmail.com
+    📩How to reach me bhaveshjain1508@gmail.com
   </p>
 <br>
 <h3 align="center">Languages and Tools:-</h3>
