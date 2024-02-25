@@ -19,13 +19,13 @@
  </p>
 <br>
   <p>
-    👀 Checkout my Portfolio - **[https://bhaveshjain-portfolio.vercel.app/](https://bhaveshjain-portfolio.vercel.app/)**
+    👀 Checkout my Portfolio - **https://bhaveshjain-portfolio.vercel.app/**
   </p>
-  <p fontWeight="3px">
+  <p>
     👨‍💻I work on **MERN Stack.**
   </p>
   <p>
-    📩How to reach me [bhaveshjain1508@gmail.com](bhaveshjain1508@gmail.com)
+    📩How to reach me **bhaveshjain1508@gmail.com**
   </p>
 <br>
 <h3 align="center">Languages and Tools:-</h3>
