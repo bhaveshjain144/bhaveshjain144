@@ -18,11 +18,7 @@
   Hi, I'm Bhavesh Jain (bhaveshjain144)<code><a href="https://github.com/bhaveshjain144" title="GitHub Profile"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg"></a></code> , Computer Science Engineer & Software Developer Engineer from India
  </p>
 <br>
-    👀 Checkout my Portfolio - **[https://bhaveshjain-portfolio.vercel.app/](https://bhaveshjain-portfolio.vercel.app/)**
-<br>
-    👨‍💻I work on **MERN Stack.** and **Python**
-<br>
-    📩How to reach me **[bhaveshjain1508@gmail.com](bhaveshjain1508@gmail.com)**
+    My Portfolio 👀 - [https://bhaveshjain-portfolio.vercel.app/](https://bhaveshjain-portfolio.vercel.app/)
 <br>
 <h3 align="center">Languages and Tools:-</h3>
 <table width="320px" align="center">
