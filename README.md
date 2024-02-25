@@ -17,10 +17,9 @@
  </p>
 <br>
   <p>
-    (❁´◡`❁) Checkout my Portfolio - **[https://bhaveshjain-portfolio.vercel.app/]**
-I work on **MERN Stack.** and Python
-
-📫 How to reach me **bhaveshjain1508@gmail.com**
+    👀 Checkout my Portfolio - **[https://bhaveshjain-portfolio.vercel.app/]**
+    👨‍💻I work on **MERN Stack.** and **Python**
+    📩How to reach me **bhaveshjain1508@gmail.com**
   </p>
 <br>
 <h3 align="center">Languages and Tools:-</h3>
