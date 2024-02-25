@@ -20,7 +20,7 @@
 <br>
     My Portfolio 👀 - https://bhaveshjain-portfolio.vercel.app/
 <br>
-    My Domain 👨‍💻 - **MERN STACK**
+    My Domain 👨‍💻 - __MERN STACK__
 <br>
 <h3 align="center">Languages and Tools:-</h3>
 <table width="320px" align="center">
