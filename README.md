@@ -19,8 +19,9 @@
  </p>
 <br>
     👀 Checkout my Portfolio - https://bhaveshjain-portfolio.vercel.app/
-    
-    👨‍💻I work on **MERN** Stack.
+<br>
+    👨‍💻I work on MERN Stack.
+<br>
     📩How to reach me bhaveshjain1508@gmail.com
 <br>
 <h3 align="center">Languages and Tools:-</h3>
